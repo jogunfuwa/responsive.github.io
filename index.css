@@ -135,6 +135,8 @@ button:hover {
 
 @media screen and (max-width: 375px) {
   .container {
+    background-image: url("bg-intro-mobile.png");
+    background-color: #f27777;
     width: 100vw;
     margin: 0 auto;
     flex-direction: column;
